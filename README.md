@@ -4,7 +4,7 @@
 Simple android app that features a few buttons and an edit text view to update text
 
 ### App Walk-though
-<img src="github.com/RobotPirate/Hello/blob/master/hello.gif" width=200><br>
+<img src="hello.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
